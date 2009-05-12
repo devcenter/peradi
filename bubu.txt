@@ -2,6 +2,7 @@ asf
 <?php
 function hall(){
 echo 'heelllloooo ... '. $echo;
+echo 'fuih';
 }
 
 echo 'now';
