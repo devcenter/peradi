@@ -1,8 +1,13 @@
 asf
 <?php
 function hall(){
-echo 'heelllloooo ... '. $echo;
+$a=$b+$c; 
+
+
+ echo 'heelllloooo ... '. $echo;
 }
+printf();
+
 
 echo 'now';
 ?>
