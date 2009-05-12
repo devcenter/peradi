@@ -1,9 +1,18 @@
 asf
 <?php
 function hall(){
+<<<<<<< HEAD:bubu.txt
 echo 'heelllloooo ... '. $echo;
 echo 'fuih';
+=======
+$a=$b+$c; 
+
+
+ echo 'heelllloooo ... '. $echo;
+>>>>>>> lastname:bubu.txt
 }
+printf();
+
 
 echo 'now';
 ?>
