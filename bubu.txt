@@ -1,5 +1,8 @@
 asf
 <?php
-
+function hall(){
 echo 'heelllloooo ... '. $echo;
+}
+
+echo 'now';
 ?>
